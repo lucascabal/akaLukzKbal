@@ -1,6 +1,7 @@
 ![adanpepe](/images/pepecreation.jpg)
-
-<img class="center" src="https://github-profile-trophy.vercel.app/?username=akaLukzKbal&theme=darkhub&title=Joined2020,Organizations,Commit,Issues,Repositories,PullRequest">
+<p align="center">
+    <img align="center" src="https://github-profile-trophy.vercel.app/?username=akaLukzKbal&theme=darkhub&title=Joined2020,Commit,Issues,Repositories,PullRequest">
+</p>
 
 ## Who am I
 Hello, my name is Lucas Suarez Cabal. I have been studying a _Software Engenieering Degree_ in **Universidad de Oviedo** and _Computer Science_, also, i studied _Computer Science_ for one semester in the formerly called **Šiaulių universitetas**
