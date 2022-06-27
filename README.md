@@ -3,7 +3,13 @@
     <img align="center" src="https://github-profile-trophy.vercel.app/?username=akaLukzKbal&theme=darkhub&title=Joined2020,Commit,Issues,Repositories,PullRequest">
 </p>
 
-## Who am I
+## About me
+<p align="center">
+<img src="https://img.shields.io/badge/intelligent-S%2B%2B-blueviolet?style=plastic">
+<img src="https://img.shields.io/badge/handsome-S%2B%2B-blueviolet?style=plastic">
+<img src="https://img.shields.io/badge/pokemon_trainer-Champion-light_green?style=plastic">
+<img src="https://img.shields.io/badge/humble-F-red?style=plastic">
+</p>
 Hello, my name is Lucas Suarez Cabal. I have been studying a _Software Engenieering Degree_ in **Universidad de Oviedo** and _Computer Science_, also, i studied _Computer Science_ for one semester in the formerly called **Šiaulių universitetas**
 
 I love to explore new programming languages and frameworks for backend, so I'm always watching youtube tutorials, making projects to see how good is a technology and reading books.
