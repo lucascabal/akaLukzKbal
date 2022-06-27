@@ -10,7 +10,8 @@
 <img src="https://img.shields.io/badge/pokemon_trainer-Champion-light_green?style=plastic">
 <img src="https://img.shields.io/badge/humble-F-red?style=plastic">
 </p>
-Hello, my name is Lucas Suarez Cabal. I have been studying a _Software Engenieering Degree_ in **Universidad de Oviedo** and _Computer Science_, also, i studied _Computer Science_ for one semester in the formerly called **Šiaulių universitetas**
+
+Hello, my name is Lucas Suarez Cabal. I have been studying a _Software Engenieering Degree_ in **Universidad de Oviedo**, also, I studied _Computer Science_ for one semester in the formerly called **Šiaulių universitetas**
 
 I love to explore new programming languages and frameworks for backend, so I'm always watching youtube tutorials, making projects to see how good is a technology and reading books.
 
@@ -35,12 +36,6 @@ Okay, in the past I used to have installed Windows with WSL or a dual boot on th
   ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white)
   ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
   ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)   ![Elementary OS](https://img.shields.io/badge/-elementary%20OS-black?style=for-the-badge&logo=elementary&logoColor=white)   ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-
-
-
-
-
-
 
 ## IDE's and text editors
 Okay, I think nobody cares about what software do you use for programming, but I'm a big freak of text editors and IDE's, now I'm using **Neovim**, you can check my configurarion in my Github public repository, but I usually change the appeareance of everything each two weeks. Here are all the programs that I have used (for Emacs I downloaded Spacemacs configuration)
