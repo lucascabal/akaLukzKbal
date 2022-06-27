@@ -1,6 +1,6 @@
 ![adanpepe](/images/pepecreation.jpg)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&title=Joined2020,LongTimeUser,Commit,Issues,Repositories,PullRequest)(https://github.com/akaLukzKbal/github-profile-trophy)
+![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)(https://github.com/akaLukzKbal/github-profile-trophy)
 
 ## Who am I
 Hello, my name is Lucas Suarez Cabal. I have been studying a _Software Engenieering Degree_ in **Universidad de Oviedo** and _Computer Science_, also, i studied _Computer Science_ for one semester in the formerly called **Šiaulių universitetas**
