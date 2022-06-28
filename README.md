@@ -38,7 +38,7 @@ Okay, in the past I used to have installed Windows with WSL or a dual boot on th
   ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)   ![Elementary OS](https://img.shields.io/badge/-elementary%20OS-black?style=for-the-badge&logo=elementary&logoColor=white)   ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ## IDE's and text editors
-Okay, I think nobody cares about what software do you use for programming, but I'm a big freak of text editors and IDE's, now I'm using **Neovim**, you can check my configurarion in my Github public repository, but I usually change the appeareance of everything each two weeks. Here are all the programs that I have used (for Emacs I downloaded Spacemacs configuration)
+Okay, I think nobody cares about what software do you use for programming, but I'm a big freak of text editors and IDE's, now I'm using **Neovim**, you can check my configurarion in my [Github public repository](https://github.com/akaLukzKbal/.config), but I usually change the appeareance of everything each two weeks. Here are all the programs that I have used (for Emacs I downloaded Spacemacs configuration)
 
 ![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black)
     ![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white)  ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
