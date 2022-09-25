@@ -12,6 +12,12 @@ Desde ese día, he dedicado mi vida a intentar aprender todo lo relacionado con 
 
 Gracias a haber residido en Siauliai, Lituania, tengo un nivel de ingles lo suficientemente fluido como para estar en entornos de trabajo multiculturales, soy de los que piensan que la clave de que un proyecto triunfe o fracase esta en la comunicacion, la sinceridad y la humildad entre miembros de equipo.
 
+<br/>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akaLukzKbal&theme=tokyonight" alt="mystreak"/>
+<p/>
+
 ## Conocimientos
 
 Actualmente, estoy trabajando en la empresa @neosystems, donde me he espacializado en las siguientes tecnologías:
@@ -22,15 +28,14 @@ Actualmente, estoy trabajando en la empresa @neosystems, donde me he espacializa
   <img src=https://aqiveo.com/wp-content/uploads/2021/10/Neodoc_Logo.png" alt="neosystems" width="400"/>
 </p>
 
-<br/>
-
 Ademas, tambien tengo algo de experiencia desarrollando bots de ![Telegram Badge](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=fff&style=flat-square) en ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat-square) gracias a la api de [pyTelegramBotAPI](https://github.com/eternnoir/pyTelegramBotAPI). Mas abajo, podeis ver un resumen con los lenguajes de programacion mas usados en mi perfil de github, pero solamente los publicos, de los cuales, al mayoria son trabajos sueltos de mi etapa universitaria
 
 <br/>
 
 <br/>
 
-<br/>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akaLukzKbal&show_icons=true&locale=es&layout=compact&theme=chartreuse-dark" alt="ovi" />
 </p>
+
+<br/>
