@@ -16,10 +16,21 @@ Gracias a haber residido en Siauliai, Lituania, tengo un nivel de ingles lo sufi
 
 Actualmente, estoy trabajando en la empresa @neosystems, donde me he espacializado en las siguientes tecnologías:
 
+![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) ![POSGRES](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![RAILS](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
 <p align="center">
   <img src=https://aqiveo.com/wp-content/uploads/2021/10/Neodoc_Logo.png" alt="neosystems" width="400"/>
-</div>
+</p>
 
-![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) ![POSGRES](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![RAILS](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white) [HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+<br/>
 
-Ademas, tambien tengo algo de experiencia desarrollando bots de ![Telegram Badge](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=fff&style=flat-square) en ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat-square)
+Ademas, tambien tengo algo de experiencia desarrollando bots de ![Telegram Badge](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=fff&style=flat-square) en ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat-square) gracias a la api de [pyTelegramBotAPI](https://github.com/eternnoir/pyTelegramBotAPI). Mas abajo, podeis ver un resumen con los lenguajes de programacion mas usados en mi perfil de github, pero solamente los publicos, de los cuales, al mayoria son trabajos sueltos de mi etapa universitaria
+
+<br/>
+
+<br/>
+
+<br/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akaLukzKbal&show_icons=true&locale=es&layout=compact&theme=chartreuse-dark" alt="ovi" />
+</p>
