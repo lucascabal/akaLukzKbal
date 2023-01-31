@@ -3,7 +3,7 @@
 
 ## Presentacion
 
-Hola, soy un programador nacido en Pravia, Asturias, con ganas de aprender y especializado en desarrollo de aplicaciones web. Empecé mi aventura como programador en el año 2017 cuando ingresé en la Universidad de Oviedo para estudiar el grado de Ingeniería de Software.
+Hola, soy un programador nacido en Pravia, Asturias, con ganas de aprender y especializado en desarrollo de aplicaciones web. Empecé como programador en el año 2017 cuando ingresé en la Universidad de Oviedo para estudiar el grado de Ingeniería de Software.
 
 Desde ese día, he dedicado mi vida a intentar aprender todo lo relacionado con el mundo de la informatica, empezando por aprender los lenguajes y entornos de desarrollo mas comunes, pasando por sistemas informaticos y ciberseguridad.
 
